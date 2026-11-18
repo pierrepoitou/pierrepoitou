@@ -1,6 +1,6 @@
-Hi, I'm Pierre
+# Hi, I'm Pierre
 
-Systems and infrastructure engineer: Windows Server, VMware, Veeam, some networking.
+<ins>Systems and infrastructure engineer</ins>
 
 ## Current Projects
 
